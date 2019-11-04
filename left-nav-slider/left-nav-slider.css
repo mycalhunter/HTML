@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+/* Left Nav */
+.icon-navbar {
+  width: 42px;
+  margin: 10px auto;
+  position: fixed;
+  top: 30%;
+  box-shadow: 2px 1px 20px rgba(255, 255, 255, 0.16);
+  height: auto;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.icon-container {
+  background-color: rgb(35, 35, 35);
+  border-radius: 10px;
+  width: 44px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.icon {
+  padding: 5px;
+  background-color: rgb(35, 35, 35);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.icon img {
+  width: 30px;
+  height: 30px;
+}
